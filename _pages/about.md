@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 layout: splash
 header:
   image: /assets/images/photografic-berlin-5324_b_banner.jpg
