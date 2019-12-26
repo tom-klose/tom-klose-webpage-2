@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I'm Tom, a Research Assistant and PhD student at Technische Universität Berlin, Germany, supervised by Peter K. Friz. I am also a fellow of the Berlin Mathematical School.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My research focuses on Stochastic Analysis, in particular (singular) stochastic partial differential equations. At the moment, I am focussing on two projects:
+
+I am about to finish a paper on precise Laplace asymptotics for the non-linear 2D Parabolic Anderson Model using Hairer's regularity structures (joint with Peter K. Friz).
+Together with Pavlos Tsatsoulis (MPI Leipzig), I aim to establish exponential loss of memory for the 3D stochastic Allen-Cahn equation in the small noise regime.
