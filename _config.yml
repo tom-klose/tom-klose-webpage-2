@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Tom Klose"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student @ TU Berlin"
+  bio    : "PhD student at TU Berlin"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
