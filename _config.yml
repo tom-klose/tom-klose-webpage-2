@@ -76,6 +76,7 @@ author:
       url: "https://instagram.com/"
 
 footer:
+  Photos on this webpage by 
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -108,7 +109,7 @@ defaults:
       author_profile: true
       header:
         image: /assets/images/photografic-berlin-5324_b_banner.jpg
-        image_description: "Welcome!"
+        caption: "Welcome!"
         
 category_archive:
   type: liquid
