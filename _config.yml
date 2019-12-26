@@ -87,6 +87,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+header:
+  image: /assets/images/photografic-berlin-5324_b_banner.jpg
+
 defaults:
   # _posts
   - scope:
@@ -106,8 +109,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-    header:
-      image: /assets/images/photografic-berlin-5324_b_banner.jpg
 
 category_archive:
   type: liquid
