@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: splash
 ---
 
 Hi! I'm Tom, a Research Assistant and PhD student at Technische Universität Berlin, Germany, supervised by Peter K. Friz. I am also a fellow of the Berlin Mathematical School.
