@@ -76,7 +76,6 @@ author:
       url: "https://instagram.com/"
 
 footer:
-"Test"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -87,6 +86,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - "Test"
 
 defaults:
   # _posts
