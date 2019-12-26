@@ -4,6 +4,7 @@ title: "About"
 layout: splash
 header:
   image: /assets/images/photografic-berlin-5324_b_banner.jpg
+  caption: "Photo by Phografic Berlin"
 ---
 
 Hi! I'm Tom, a Research Assistant and PhD student at Technische Universität Berlin, Germany, supervised by Peter K. Friz. I am also a fellow of the Berlin Mathematical School.
