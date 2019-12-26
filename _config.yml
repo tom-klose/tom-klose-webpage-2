@@ -99,8 +99,6 @@ defaults:
       comments: true
       share: true
       related: true
-    header:
-      image: /assets/images/photografic-berlin-5324_b_banner.jpg
   # _pages
   - scope:
       path: "_pages"
@@ -108,6 +106,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+    header:
+      image: /assets/images/photografic-berlin-5324_b_banner.jpg
 
 category_archive:
   type: liquid
