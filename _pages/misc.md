@@ -12,11 +12,11 @@ That said, this page is dedicated to the things that I cherish beside mathematic
 
 gallery:
   - url: /assets/images/Varanasi.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    image_path: /assets/images/Varanasi.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/Sahara_1.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_path: /assets/images/Sahara_1.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
     
