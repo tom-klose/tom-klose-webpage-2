@@ -1,4 +1,6 @@
 main:
+  - title: "Misc"
+    url: /misc/
   # - title: "Posts"
   #  url: /posts/
   # - title: "Categories"
