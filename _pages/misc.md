@@ -36,5 +36,5 @@ behind the professionals that we work and dine with during the day.
 
 That said, this page is dedicated to the things that I cherish beside mathematics. I hope you will enjoy what you see and read. 
 
-{% include gallery caption="This gallery of images that I have taken during various 
+{% include gallery caption="This is a gallery of images that I have taken during various 
 **travels**." %}  
