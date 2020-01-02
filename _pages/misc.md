@@ -4,28 +4,22 @@ title: ""
 gallery:
   - url: /assets/images/Varanasi.jpg
     image_path: /assets/images/Varanasi.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Varanasi, India, 2015."
   - url: /assets/images/Sahara_1.jpg
     image_path: /assets/images/Sahara_1.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Sahara Desert, Morocco, 2019."
   - url: /assets/images/With fondest love.jpg
     image_path: /assets/images/With fondest love.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "London, UK, 2016."
   - url: /assets/images/(Tate) Modern Facade.jpg
     image_path: /assets/images/(Tate) Modern Facade.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"  
+    title: "London, UK, 2018."  
   - url: /assets/images/A frog's perspective.jpg
     image_path: /assets/images/A frog's perspective.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption" 
+    title: "Paris, France, 2019." 
   - url: /assets/images/And I take you by the hand.jpg
     image_path: /assets/images/And I take you by the hand.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"  
+    title: "Chechaouen, Morocco, 2019."  
 layout: single
 author_profile: true  
 
