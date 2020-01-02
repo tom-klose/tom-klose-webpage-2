@@ -32,5 +32,4 @@ behind the professionals that we work and dine with during the day.
 
 That said, this page is dedicated to the things that I cherish beside mathematics. I hope you will enjoy what you see and read. 
 
-{% include gallery caption="This is a gallery of images that I have taken during various 
-travels." %}  
+{% include gallery caption="I enjoy taking photos, particularly when travelling. Here is a gallery of some images I have throughout the last years." %}  
