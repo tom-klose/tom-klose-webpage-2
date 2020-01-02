@@ -10,4 +10,4 @@ behind the professionals that we work and dine with during the day.
 
 That said, this page is dedicated to the things that I cherish beside mathematics. I hope you will enjoy what you see and read. 
 
-{% include figure image_path="/assets/images/Varanasi.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}   
+{% include figure image_path="/assets/images/Varanasi.jpg" caption="This is a figure caption." %}   
