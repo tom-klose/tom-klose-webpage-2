@@ -18,6 +18,14 @@ gallery:
     image_path: /assets/images/(Tate) Modern Facade.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"  
+   - url: /assets/images/A frog's perspective.jpg
+    image_path: /assets/images/A frog's perspective.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption" 
+   - url: /assets/images/And I take you by the hand.jpg
+    image_path: /assets/images/And I take you by the hand.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption" 
 ---
 
 Recently, I found myself in a post-lunch conversation on the merits and hardships of life inside academia. 
