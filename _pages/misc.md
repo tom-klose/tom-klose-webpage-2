@@ -1,6 +1,15 @@
 ---
 permalink: /misc/
 title: ""
+gallery:
+  - url: /assets/images/Varanasi.jpg
+    image_path: /assets/images/Varanasi.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/Sahara_1.jpg
+    image_path: /assets/images/Sahara_1.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
 ---
 
 Recently, I found myself in a post-lunch conversation on the merits and hardships of life inside academia. 
