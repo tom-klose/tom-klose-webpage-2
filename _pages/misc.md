@@ -26,7 +26,8 @@ gallery:
     image_path: /assets/images/And I take you by the hand.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"  
-author_profile: true   
+author_profile: true  
+layout: single
 
 ---
 
