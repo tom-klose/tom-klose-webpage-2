@@ -10,6 +10,14 @@ gallery:
     image_path: /assets/images/Sahara_1.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+  - url: /assets/images/With fondest love.jpg
+    image_path: /assets/images/With fondest love.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/(Tate) Modern Facade.jpg
+    image_path: /assets/images/(Tate) Modern Facade.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"  
 ---
 
 Recently, I found myself in a post-lunch conversation on the merits and hardships of life inside academia. 
@@ -19,4 +27,4 @@ behind the professionals that we work and dine with during the day.
 
 That said, this page is dedicated to the things that I cherish beside mathematics. I hope you will enjoy what you see and read. 
 
-{% include gallery layout="half" caption="This is a sample gallery with **Markdown support**." %}  
+{% include gallery layout="half" caption="This is a sample gallery with Test **Markdown support**." %}  
