@@ -1,6 +1,7 @@
 ---
 permalink: /misc/
 title: ""
+author_profile: true
 gallery:
   - url: /assets/images/Varanasi.jpg
     image_path: /assets/images/Varanasi.jpg
