@@ -8,7 +8,7 @@ author_profile: true
 ### Education
 
 * B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* M.Sc. in Mathematics, Technische Universit&auml;t Berlin & Humboldt-Universit&auml;t zu Berlin, 2017
 * B.Sc. in Mathematics, Technische Universit&auml;t Dresden, 2013
 
 ### Work experience
