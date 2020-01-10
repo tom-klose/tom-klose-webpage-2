@@ -9,10 +9,10 @@ author_profile: true
 
 * P. hD. in Mathematics, Technische Universit&auml;t Berlin, 2020 (expected)
      * Supervisor: Peter K. Friz
-     * Dissertation Topic: Some Results on Singular Stochastic Partial Differential Equations (working title)
+     * Dissertation Topic: <i> Some Results on Singular Stochastic Partial Differential Equations </i> (working title) 
 * M. Sc. in Mathematics, Technische Universit&auml;t Berlin & Humboldt-Universit&auml;t zu Berlin, 2017
      * Supervisor: Nicolas Perkowski
-     * Dissertation Topic: Large Deviations for the Stochastic Allen-Cahn Equation in Three Dimensions
+     * Dissertation Topic: <i> Large Deviations for the Stochastic Allen-Cahn Equation in Three Dimensions </i>
 * B. Sc. in Mathematics, Technische Universit&auml;t Dresden, 2013
 
 ### Work experience
