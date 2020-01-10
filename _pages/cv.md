@@ -9,7 +9,7 @@ author_profile: true
 
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* B.Sc. in Mathematics, Technische Universitat Dresden, 2013
+* B.Sc. in Mathematics, Technische Universit&auml;t Dresden, 2013
 
 ### Work experience
 
