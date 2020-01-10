@@ -7,11 +7,11 @@ author_profile: true
 
 ### Education
 
-* ** P. hD. in Mathematics, Technische Universit&auml;t Berlin, 2020 (expected) **
+* **P. hD. in Mathematics, Technische Universit&auml;t Berlin, 2020 (expected)**
      * Supervisor: Peter K. Friz
      * Dissertation Topic: Some Results on Singular Stochastic Partial Differential Equations (working title)
-* ** M. Sc. in Mathematics, Technische Universit&auml;t Berlin & Humboldt-Universit&auml;t zu Berlin, 2017 **
-* ** B. Sc. in Mathematics, Technische Universit&auml;t Dresden, 2013 **
+* **M. Sc. in Mathematics, Technische Universit&auml;t Berlin & Humboldt-Universit&auml;t zu Berlin, 2017**
+* **B. Sc. in Mathematics, Technische Universit&auml;t Dresden, 2013**
 
 ### Work experience
 
