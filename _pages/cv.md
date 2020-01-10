@@ -15,7 +15,7 @@ author_profile: true
      * Dissertation Topic: <i> Large Deviations for the Stochastic Allen-Cahn Equation in Three Dimensions </i>
 
 Technische Universit&auml;t Dresden  
-     * Bachelor of Science (B. Sc.)    
+* Bachelor of Science (B. Sc.)    
 
 ### Work experience
 
