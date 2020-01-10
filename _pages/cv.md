@@ -17,6 +17,9 @@ author_profile: true
      * Supervisor: Thomas Cass
      * Dissertation Topic: <i> Controlled Rough Paths of Lower Regularity </i>
 * B. Sc. in Mathematics, Technische Universit&auml;t Dresden, 2013  
+     * Supervisor: Ralph Chill
+     * Dissertation Topic: <i> The Spectral Theorem for Unbounded, Self-adjoint Operators on Separable Hilbert Spaces. (in German)</i>
+     
 
 ### Work experience
 
