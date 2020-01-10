@@ -10,6 +10,7 @@ author_profile: true
 | Degree           | Year   | University                                                   |
 | --------         | ------ | ------------------------------------------------------------ |
 | P. hD.            | 2020   | Technische Universit&auml;t Berlin                         |
+|||Supervisor|
 | M. Sc.            | 2017   | Technische Universit&auml;t Berlin & Humboldt-Universit&auml;t zu Berlin |
 | B. Sc.            | 2013   | Technische Universit&auml;t Dresden                        |
 
