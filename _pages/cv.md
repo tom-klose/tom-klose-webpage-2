@@ -13,7 +13,9 @@ author_profile: true
 * M. Sc. in Mathematics, Technische Universit&auml;t Berlin & Humboldt-Universit&auml;t zu Berlin, 2017
      * Supervisor: Nicolas Perkowski
      * Dissertation Topic: <i> Large Deviations for the Stochastic Allen-Cahn Equation in Three Dimensions </i>
-     * Exchange year at Imperial College London (2015/16)
+* Exchange year at Imperial College London (2015/16)
+     * Supervisor: Thomas Cass
+     * Dissertation Topic: <i> Controlled Rough Paths of Lower Regularity </i>
 * B. Sc. in Mathematics, Technische Universit&auml;t Dresden, 2013  
 
 ### Work experience
