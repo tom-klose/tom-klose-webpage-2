@@ -7,6 +7,12 @@ author_profile: true
 
 ### Education
 
+| Degree           | Year   | University                                                   |
+| --------         | ------ | ------------------------------------------------------------ |
+| P.hD.            | 2020   | Description of the item in the list                          |
+| M.Sc.            | 2017   | Technische Universit&auml;t Berlin & Humboldt-Universit&auml;t zu Berlin |
+| B.Sc.            | 2013   | Technische Universit&auml;t Dresden                        |
+
 * B.S. in GitHub, GitHub University, 2012
 * M.Sc. in Mathematics, Technische Universit&auml;t Berlin & Humboldt-Universit&auml;t zu Berlin, 2017
 * B.Sc. in Mathematics, Technische Universit&auml;t Dresden, 2013
