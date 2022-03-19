@@ -12,6 +12,6 @@ Hi! I'm Tom, a Research Assistant and PhD student at Technische Universität Ber
 My research focuses on Stochastic Analysis, in particular (singular) stochastic partial differential equations. You can find my work here:
 
 <ul>
-  <li> Precise Laplace asymptotics for singular stochastic PDEs: The case of 2D gPAM (joint with Peter K. Friz), Accepted for publication in <i> Journal of Functional Analysis </i>, Preprint available at <a href="https://arxiv.org/pdf/2103.00028.pdf"> arXiv:2103.00028 [math.PR] </a> </li>
+  <li> Precise Laplace asymptotics for singular stochastic PDEs: The case of 2D gPAM (joint with Peter K. Friz), accepted for publication in <i> Journal of Functional Analysis </i>, Preprint available at <a href="https://arxiv.org/pdf/2103.00028.pdf"> arXiv:2103.00028 [math.PR] </a> </li>
   <li> Together with Pavlos Tsatsoulis (MPI Leipzig), I aim to establish exponential loss of memory for the 3D stochastic Allen-Cahn equation in the small noise regime.</li>
 </ul>  
