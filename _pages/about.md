@@ -1,12 +1,12 @@
----
-permalink: /
-title: ""
-layout: single
-header:
-  image: /assets/images/photografic-berlin-5324_b_banner.jpg
-  caption: "Photo by Photografic Berlin"
----
-
+# ---
+# permalink: /
+# title: ""
+# layout: single
+# header:
+#  image: /assets/images/photografic-berlin-5324_b_banner.jpg
+#   caption: "Photo by Photografic Berlin"
+#---
+#
 Welcome! I'm Tom, I completed my PhD in July 2022 at Technische Universität Berlin, Germany, under the supervision of Peter K. Friz. I am also a fellow of the Berlin Mathematical School.
 
 My research focuses on Stochastic Analysis, in particular (singular) stochastic partial differential equations. You can find my work here:
