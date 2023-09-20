@@ -10,3 +10,6 @@ $link-color: red;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.visible-links {
++      -webkit-box-pack: start;
++       justify-content: flex-start;}
