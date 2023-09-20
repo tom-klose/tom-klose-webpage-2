@@ -56,9 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Tom Klose"
-  avatar : "/assets/images/profile_picture.jpg"
-  bio    : "Postdoctoral researcher"
+  name     : "Tom Klose"
+  avatar   : "/assets/images/profile_picture.jpg"
+  bio      : "Postdoctoral researcher"
+  location : "Coventry, UK"
   #links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
