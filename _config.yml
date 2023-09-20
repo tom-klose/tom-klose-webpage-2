@@ -60,7 +60,10 @@ author:
   avatar   : "/assets/images/profile_picture.jpg"
   bio      : "Postdoctoral researcher"
   location : "Coventry, UK"
-  employer : "University of Warwick"
+  email    :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
   #links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
