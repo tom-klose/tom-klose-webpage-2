@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-layout: splash
+layout: single
 header:
   image: /assets/images/photografic-berlin-5324_b_banner.jpg
   caption: "Photo by Photografic Berlin"
