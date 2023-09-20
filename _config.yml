@@ -16,7 +16,7 @@
 title: Tom Klose
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Tom Klose is a PhD student of Mathematics. His research focuses on Stochastic Analysis, in particular (singular) stochastic PDEs.
+  # Tom Klose is a PhD student of Mathematics. His research focuses on Stochastic Analysis, in particular (singular) stochastic PDEs.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark #dirt
@@ -58,8 +58,11 @@ plugins:
 author:
   name   : "Tom Klose"
   avatar : "/assets/images/profile_picture.jpg"
-  bio    : "PhD student @ TU Berlin"
+  bio    : "Postdoctoral researcher"
   #links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tom.klose@warwick.ac.uk"
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
   #    url: "https://"
