@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: ""
+permalink: /publications/
+title: "" 
 layout: single
-header:
-  image: 
-  caption: ""
+author_profile: true  
 ---
 
 I have worked on the following projects:
