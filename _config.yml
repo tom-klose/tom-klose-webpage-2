@@ -91,9 +91,6 @@ footer:
       url: "https://instagram.com/"
     - label: "Test"
 
-header:
-  image: /assets/images/Blackboard.jpeg    
-
 defaults:
   # _posts
   - scope:
