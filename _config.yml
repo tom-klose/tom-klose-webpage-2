@@ -92,7 +92,7 @@ footer:
     - label: "Test"
 
 header:
-  image: /assets/images/Blackboard.jpg    
+  image: /assets/images/Blackboard.jpeg    
 
 defaults:
   # _posts
