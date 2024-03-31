@@ -61,7 +61,7 @@ author:
   avatar   : "/assets/images/profile_picture.jpg"
   bio      : "Postdoctoral researcher"
   location : "Coventry, UK"
-  email    :
+  email    : "tom.klose@warwick.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
