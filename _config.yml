@@ -17,9 +17,9 @@ title: Tom Klose
 repository: tom-klose/tom-klose.github.io
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  # Tom Klose is a PhD student of Mathematics. His research focuses on Stochastic Analysis, in particular (singular) stochastic PDEs.
-twitter_username: #username
-github_username: #username
+  # Tom Klose is a Postdoctoral Research Assistant in Mathematics. His research focuses on Stochastic Analysis, in particular (singular) stochastic PDEs.
+twitter_username: username
+github_username: username
 theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dirt #dark
 search: false #true
