@@ -63,7 +63,7 @@ author:
   location : "Coventry, UK"
   email    : "tom.klose@warwick.ac.uk"
   links:
-    - label: "tom.klose@warwick.ac.uk"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
   #links:
   #  - label: "Website"
