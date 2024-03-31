@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tom Klose
+repository: tom-klose/tom-klose.github.io
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   # Tom Klose is a PhD student of Mathematics. His research focuses on Stochastic Analysis, in particular (singular) stochastic PDEs.
